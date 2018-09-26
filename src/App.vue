@@ -62,13 +62,13 @@ export default {
     box-sizing: inherit;
   }
 
-  .container {
-    margin: 0 auto;
-    max-width: 1360px;
-  }
-
   body {
     font-family: sans-serif;
     margin: 0;
+  }
+
+  .container {
+    margin: 0 auto;
+    max-width: 1360px;
   }
 </style>
